@@ -81,9 +81,6 @@
           "builder": "@storybook/angular:start-storybook",
           "options": {
             "browserTarget": "taskbox:build:development",
-            "https": true,
-            "sslCert": "./ssl/server.crt",
-            "sslKey": "./ssl/server.key",
             "port": 6006
           }
         },
